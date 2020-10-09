@@ -1,0 +1,21 @@
+all in one
+turtle_race.py
+def start_turtle_race
+
+pong.py
+def start_pong
+
+main.py ->
+print("hello. what do u want to play?")
+
+input 1,2,3
+
+1 -> start_turtle_race
+2 -> start_pong
+
+folder-tree:
+turtle-
+        |-venv X
+        |-.gitignore
+        |-game.py
+        |-project.txt
