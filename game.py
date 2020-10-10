@@ -2,6 +2,7 @@
 import turtle
 import random
 
+
 window = turtle.Screen()
 window.setup(width=800, height=800)
 
@@ -39,5 +40,4 @@ while True:
     oscar.forward(oscar_value)
     terry.forward(terry_value)
 
-# remenber use exitonclick() on Screen instance
-window.exitonclick()
+
